@@ -17,4 +17,5 @@
 <ul>
   <li>https://hackernoon.com/functional-programming-techniques-in-java-with-examples-8k1m3w85</li>
   <li>https://deepu.tech/functional-programming-in-java-for-beginners/</li>
+  <li>https://www.javatpoint.com/java-8-method-reference</li>
  </ul>

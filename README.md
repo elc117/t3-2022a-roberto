@@ -18,4 +18,5 @@
   <li>https://hackernoon.com/functional-programming-techniques-in-java-with-examples-8k1m3w85</li>
   <li>https://deepu.tech/functional-programming-in-java-for-beginners/</li>
   <li>https://www.javatpoint.com/java-8-method-reference</li>
+  <li>https://www.geeksforgeeks.org/convert-a-string-to-a-list-of-characters-in-java/</li>
  </ul>

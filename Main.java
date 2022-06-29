@@ -18,5 +18,7 @@ public class Main {
         Exercises ex = new Exercises();
         System.out.println("\nEncontrado: " + ex.charFound('P', "Paradigma"));
         System.out.println("\nSoma dos pares: " + ex.sumOdds(integerList));
+        System.out.println("\nElementos adequados: " + ex.calcExpr(doubleList));
+        System.out.println("\nProduto interno: " + ex.dotProd(integerList, integerList));
     }
 }

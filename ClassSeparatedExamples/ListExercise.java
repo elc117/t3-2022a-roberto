@@ -7,7 +7,7 @@ import java.util.List;
  * como indicativo de que a interface é funcional, ou seja, possui apenas um método abstrato,
  * e por isso pode ser implementada com lambdas. Além disso, ela impede que sejam feitas
  * modificações no código de modo que os requisitos de uma interterface funcional passem a
- * não ser mais atendidos. Se isso for feito, vai ocorrer erro na compilação.
+ * não ser mais atendidos. Se isso for feito, vai ocorrer erro na comcpilação.
  */
 @FunctionalInterface
 public interface ListExercise<R> {

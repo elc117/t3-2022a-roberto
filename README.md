@@ -36,13 +36,13 @@
   Entretanto, as novidades não vão muito além disso. Os recursos não são suficientes para revolucionar a maneira como se desenvolve com a linguagem, tratando-se de um adicional à tradicional linguaguem, que apesar de tardio, é muito bem-vindo.
 </p>
 <p>
-  Senti falta de alguns recursos muito úteis que existem em Haskell no Java. Destaco, entre eles, o let-in e where, que facilitam bastante a escrita de código mais longo, e o PatternMatching, cuja ausência implica num uso de recursão bastante diferente, por exemplo. A geração de listas em Haskell é outro diferencial notável que Java não possui. 
+  Senti falta de alguns recursos muito úteis que existem em Haskell no Java. Destaco, entre eles, o let-in e where, que facilitam bastante a escrita de código mais longo, e o PatternMatching, cuja ausência implica num uso de recursão bastante diferente, por exemplo. A geração de listas em Haskell é outro diferencial notável que Java não possui com a mesma acessibilidade. 
 </p>
 <p> 
   Além disso, o princípio da imutabilidade é difícil de ser alcançado em Java, já que a orientação a objetos é muito atrelada a estados, o que vai na contramão da ideia. Para chegar em um resultado parecido, atributos precisam ser definidos como <i>final</i>, o que não é muito conveniente. 
 </p>
 <p>
-  Ainda assim, pessoalmente acredito que valha a pena conhecer esses adicionais. 
+  Em suma, acredito que valha a pena conhecer esses adicionais, contanto que não se eleve as expectativas demais sobre as possibilidades. 
 </p>
 <h2> Referências </h2>
 <ul>
@@ -53,4 +53,5 @@
   <li>https://www.baeldung.com/java-functional-programming</li>
   <li>https://www.geeksforgeeks.org/10-ways-to-create-a-stream-in-java/</li>
   <li>https://www.baeldung.com/java-stream-sum</li>
+  <li>https://www.baeldung.com/java-collections-zip</li>
  </ul>

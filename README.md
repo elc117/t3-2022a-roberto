@@ -52,4 +52,5 @@
   <li>https://www.geeksforgeeks.org/convert-a-string-to-a-list-of-characters-in-java/</li>
   <li>https://www.baeldung.com/java-functional-programming</li>
   <li>https://www.geeksforgeeks.org/10-ways-to-create-a-stream-in-java/</li>
+  <li>https://www.baeldung.com/java-stream-sum</li>
  </ul>

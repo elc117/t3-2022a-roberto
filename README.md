@@ -2,11 +2,7 @@
 <h2> Motivação </h2>
 <p>
   Após experienciar as vantagens do paradigma funcional através do contato com a linguagem de programação Haskell, quis entender melhor se é possível, e se sim, como, aproveitá-las em Java. 
-</p>funcional em Java é um recurso sutil, que pode deixar o código produzido mais legível e sucinto. As mudanças são poucas, mas podem facilitar bastante a escrita de códigos que são recorrentes no dia a dia do programador.
-
-Entretanto, as novidades não vão muito além disso. Os recursos não são suficientes para revolucionar a maneira como se desenvolve com a linguagem, tratando-se de um adicional à tradicional linguaguem, que apesar de tardio, é muito bem-vindo.
-
-Senti falta de alguns recursos muito úteis que existem em Haskell no Java. Destaco, entre eles, o let-in e where, que facilitam bastante a escrita de código mais longo, e o PatternMatching, cuja ausência implica num uso de recursão bastante diferente, por exemplo. A geração de listas em Haskell é outro diferencial
+</p>
 <p>
   Java foi escolhida para comparação porque eu já possuía algum contato prévio com a linguagem. Assim, torna-se mais viável realizar comparações e, ainda, adquirir novas habilidades na ferramenta. Além disso, outro motivo foi o contraste, dado que Java é uma linguagem essencialmente imperativa.
 </p>
